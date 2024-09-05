@@ -1,5 +1,0 @@
-#ignore r project
-*.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
