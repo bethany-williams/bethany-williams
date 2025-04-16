@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Bethany Williams 
 
-[Website Link](https://blw9786.wixsite.com/bethany-williams--ph)
+[Website Link](https://bethany-williams.github.io/)
 
 I am a NSF PRFB postdoctoral fellow at the University of Missouri St. Louis
 
